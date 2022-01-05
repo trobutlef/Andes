@@ -1,10 +1,13 @@
-//import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1> Hello </h1>
+    //BEM convention -> it is just a name styling
+    <div className="app">
+      <h1> Welcome to Andes </h1>
+      <p> Where everything is better than Amazon </p>
+      {/* HEADER */}
+      {/* HOME */}  
     </div>
   );
 }
