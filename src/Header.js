@@ -4,21 +4,24 @@ import './Header.css'
 function Header() {
   return (
     <div className = 'header'>
-      <img className="header_logo" src="img/andes_logos"/>
+      <img className="header_logo" src="img/andes_logos.jpg"/>
       <div className="header_search">
         <input 
           className = "header_searchInput" type="text"/>
           {/*Logo*/}
       </div>
      <div className="header_nav"> 
-      <div className="header_option"> 
+      
+      <div className="header_option"> {/* Sign in*/}
         <span className='header_optionLineOne'> Hello Guest </span>
         <span className='header_optionLineTwo'> Sign In </span>
       </div>
-      <div className="header_option"> 
+
+      <div className="header_option"> {/* Return & orders*/}
 
       </div>
-      <div className="header_option"> 
+
+      <div className="header_option"> {/* Prime*/}
 
       </div>
      </div>
