@@ -1,6 +1,13 @@
 Andes
 =======================================================
-  What is Andes.com? Well, one important fact is that we are better than amazon in several ways.
-  
-  Still in development...
+  What is Andes? Well, it is a NFT marketplace but instead of using crypto money, we will be accepting currency like dollars or soles for the first version of the app. 
+
+* Want to try it on your local computer
+  * On terminal - npm start
+
+
+  What I learned?
+  - how to use firebase as a database server
+  - react structure
+  - ...
 
